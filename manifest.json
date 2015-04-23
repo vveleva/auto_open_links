@@ -11,5 +11,5 @@
       "js": ["auto_open_links.js"]
     }
   ],
-  "web_accessible_resources": ["main.css", "auto_open_links.js"]
+  "web_accessible_resources": ["auto_open_links.js"]
 }
