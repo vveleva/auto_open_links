@@ -7,7 +7,7 @@ window.addEventListener('keypress', function(e) {
       'cancelable': true,
       'metaKey': true
     });
-    var cb = document.querySelector('#rso > div.srg > li:nth-child('+ n +') > div > h3 > a');
+    var cb = document.querySelector('#rso > div.srg > div:nth-child('+ n +') > div > h3 > a');
     cb.dispatchEvent(event);
   }
 
